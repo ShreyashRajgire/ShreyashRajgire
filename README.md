@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<h6 align="left">>SQL<br>>PowerBi<br>>R<br>>Excel</h6>
+<p align="left">>SQL<br>>PowerBi<br>>R<br>>Excel</p>
 
 ###
 
