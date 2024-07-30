@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">I am Shreyash Rajgire😃. I am from Nagpur, Maharashtra and currently doing my MBA from  Department of Business Economics 🏫. I love to explore and learn about new things.</h4>
+<h4 align="left">I am Shreyash Rajgire😃. I am from Nagpur, Maharashtra and currently doing my MBA from  Department of Business Economics, Delhi 🏫. I love to explore and learn about new things.</h4>
 
 ###
 
@@ -29,19 +29,17 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="100" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
+
+###
+
 <h2 align="left">⚡Technologies and Tools I use:</h2>
 
 ###
 
-<br clear="both">
-
 <p align="left">>SQL<br>>PowerBi<br>>R<br>>Excel</p>
-
-###
-
-<div align="right">
-  <img height="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
-</div>
 
 ###
 
