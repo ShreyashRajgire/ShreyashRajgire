@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">I am Shreyash Rajgire😃. I am from Nagpur, Maharashtra and currently doing my MBA from  Department of Business Economics, Delhi 🏫. I love to explore and learn about new things.</h4>
+<h4 align="left">I am Shreyash Rajgire😃. I am from Nagpur, Maharashtra and currently doing my MBA from  Department of Business Economics 🏫. I love to explore and learn about new things.</h4>
 
 ###
 
