@@ -37,4 +37,4 @@ I'm always up for a good conversation about:
 - 🧠 Machine Learning & AI
 - 🎨 Data Visualization & Storytelling 
 
-**Fun Fact:** Why are machine learning models so fit? Because they do weight training!  🏋️‍♀️
+<h5 align="right">🎲 Fun fact: Why are machine learning models so fit ?<br>Ans- Because they do weight Training</h5>
