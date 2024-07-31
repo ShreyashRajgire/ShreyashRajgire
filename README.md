@@ -4,7 +4,11 @@
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /> 
 
-###  MBA Student 💼 • Data Enthusiast 📊 • Lifelong Learner 🧠
+<h1 align="left">👋  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=41B883¢er=true&lines=Hi+There!+👋" alt="Hi there! 👋" /> </h1> 
+
+<img align="right" height="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /> 
+
+### MBA Student 💼 • Engineer ⚙️ • Data Enthusiast 📊 • Lifelong Learner 🧠
 
 I'm currently pursuing my MBA from the Department of Business Economics at Delhi University 🏫. When I'm not buried in case studies, you can find me exploring the world of data science and machine learning. I'm passionate about leveraging data to uncover insights and drive informed decisions.
 
