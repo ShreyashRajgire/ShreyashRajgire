@@ -7,9 +7,6 @@
 
 I'm currently pursuing my MBA from the Department of Business Economics at Delhi University 🏫. When I'm not buried in case studies, you can find me exploring the world of data science and machine learning. I'm passionate about leveraging data to uncover insights and drive informed decisions. 
 
-### MBA Student 💼 • Engineer ⚙️ • Data Enthusiast 📊 • Lifelong Learner 🧠
-
-I'm currently pursuing my MBA from the Department of Business Economics at Delhi University 🏫. When I'm not buried in case studies, you can find me exploring the fascinating world of data science and machine learning. I'm particularly interested in [mention specific area, e.g., natural language processing, computer vision] and its applications in [mention industry/domain]. I'm passionate about leveraging data to uncover insights and drive informed business decisions.
 ### Let's Connect!
 
 <div align="left">
