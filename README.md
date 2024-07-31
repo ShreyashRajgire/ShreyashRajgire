@@ -2,6 +2,7 @@
 <br><!-- Adjusted spacing here -->
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /> 
+
 ### MBA Student 💼 • Engineer ⚙️ • Data Enthusiast 📊 • Lifelong Learner 🧠
 
 I'm currently pursuing my MBA from the Department of Business Economics at Delhi University 🏫. When I'm not buried in case studies, you can find me exploring the world of data science and machine learning. I'm passionate about leveraging data to uncover insights and drive informed decisions. 
