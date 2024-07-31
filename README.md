@@ -1,43 +1,36 @@
+<h1 align="left">👋 Hey, I'm Shreyash</h1>
 
+<img align="right" width="280" alt="Data Visualization" src="https://media.giphy.com/media/jKASZl2awCmbW/giphy.gif"/> 
 
-<h1 align="left">👋 H𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/></h1>
+<br> 
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /> 
+### 🎓  MBA Student | 📊 Data Enthusiast
 
-###  MBA Student 💼 • Data Enthusiast 📊 • Lifelong Learner 🧠
+I'm an MBA student at Delhi University, diving deep into the world of business and exploring how data-driven insights can drive better decisions. I'm passionate about applying data science concepts to real-world challenges. 
 
-I'm currently pursuing my MBA from the Department of Business Economics at Delhi University 🏫. When I'm not buried in case studies, you can find me exploring the world of data science and machine learning. I'm passionate about leveraging data to uncover insights and drive informed decisions.
+<!-- Adjusted for modesty -->
+While I'm still learning and growing, I'm eager to contribute my skills to interesting projects and collaborate with others in the field.
 
-### Let's Connect!
+###  Exploring My Data Toolkit  🧰 
+
+- **Data Wrangling & Analysis:** SQL, R, Excel 
+- **Data Visualization:**  Power BI - I believe a good visualization can speak volumes.
+
+### What's On My Radar 🚀
+
+- **Deepening my knowledge of Deep Learning:** I'm particularly interested in its potential within the business domain.
+- **Expanding my Skillset:** Continuously learning new tools and techniques to stay ahead in the ever-evolving tech world. 
+
+<!-- A toned-down approach to connection -->
+### Let's Chat! 
+
+Feel free to connect – I'm always open to learning from fellow data enthusiasts and those working at the intersection of business and technology.
 
 <div align="left">
   <a href="www.linkedin.com/in/shreyash-rajgire-6b400a262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
+  </a>  
   <a href="shreyash26.inbox@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-###  My Data Toolkit 🧰
-
-- **Data Wrangling & Analysis:** SQL, R, Excel
-- **Data Visualization & Reporting:** Power BI
-
-###  What I'm Exploring 🚀
-
-- 🤖 Deep Learning: Currently diving deep (pun intended!) into exciting research projects.
-- 📚 Continuous Learning:  Always eager to expand my skillset across different domains.
-
-### Let's Chat! 💬
-
-I'm always up for a good conversation about:
-
-- 💻 Tech Trends
-- 🧠 Machine Learning & AI
-- 🎨 Data Visualization & Storytelling 
-
-**Fun Fact:** Why are machine learning models so fit? Because they do weight training!  🏋️‍♀️
-
-
-
