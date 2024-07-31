@@ -1,4 +1,4 @@
-<h1 align="left">👋  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=41B883¢er=true&lines=Hello+there,+fellow+%3Ccoders/%3E!+%F0%9F%91%8B" alt="Hello there, fellow <coders/>! 👋" /> </h1> 
+<h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=41B883¢er=true&lines=Hello+there,+fellow+%3Ccoders/%3E!+%F0%9F%91%8B" alt="Hello there, fellow <coders/>! 👋" /> </h1> 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /> 
 
 ### MBA Student 💼 • Engineer ⚙️ • Data Enthusiast 📊 • Lifelong Learner 🧠
