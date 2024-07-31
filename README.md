@@ -1,6 +1,6 @@
-Here's a revamped version of your README with some creative touches:
 
-<h1 align="left">👋 Hey there, I'm Shreyash!</h1>
+
+<h1 align="left">👋 �𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/></h1>
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  /> 
 
